@@ -1,8 +1,9 @@
-# Speech to Text Converter with Copy to Clipboard
+# Speech Text Pro
 
 A React.js application that converts spoken words from a microphone into text and allows users to copy the transcribed text to their clipboard.
 
-![Demo](sanchari-speech-to-text.netlify.app/)
+[Visit the Demo](https://example.com)
+
 
 ## How it works
 `useSpeechRecognition` is a React hook that gives a component access to a transcript of speech picked up from the user's microphone.
@@ -30,7 +31,7 @@ A React.js application that converts spoken words from a microphone into text an
 <img width="916" alt="image" src="https://github.com/Sanchariii/Speech_Text_Pro/assets/88083502/36187c23-9e7a-4e25-a189-a10b5913e335">
 
 
-You can view a live demo of this project [here](sanchari-speech-to-text.netlify.app/).
+You can view a live demo of this project [Visit the Demo](https://example.com).
 
 ## Getting Started
 
