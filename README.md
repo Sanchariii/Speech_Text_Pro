@@ -52,6 +52,8 @@ Before you begin, ensure you have met the following requirements:
 
 `import SpeechRecognition, { useSpeechRecognition } from 'react-speech-recognition'`
 
+### Usage
+
 ## Detecting when the user denies access to the microphone
 
 Even if the browser supports the Web Speech API, the user still has to give permission for their microphone to be used before transcription can begin. They are asked for permission when `react-speech-recognition` first tries to start listening. At this point, you can detect when the user denies access via the `isMicrophoneAvailable` state. When this becomes `false`, it's advised that you disable voice-driven features and indicate that microphone access is needed for them to work.
@@ -96,3 +98,6 @@ SpeechRecognition.startListening({ continuous: true })
 
  ### Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve this project. Please follow the Contributor Covenant and the Pull Request Guidelines.
+
+### License
+This project is licensed under the MIT License
