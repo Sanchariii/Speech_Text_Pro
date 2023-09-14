@@ -2,7 +2,7 @@
 
 A React.js application that converts spoken words from a microphone into text and allows users to copy the transcribed text to their clipboard.
 
-[Visit the Demo](https://example.com)
+[Visit the Demo](sanchari-speech-to-text.netlify.app/)
 
 
 ## How it works
